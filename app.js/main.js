@@ -1,13 +1,13 @@
-const imgT1_Cafe = "/img/test1a.png"; 
-const imgT1_TV = "/img/test1b.png"; 
-const imgT2_College = "/img/test2a.png"; 
-const imgT2_Boat = "/img/test2b.png"; 
-const imgT3_Camp = "/img/test3a.png"; 
-const imgT3_Coach = "/img/test3b.png"; 
-const imgT4_Club = "/img/test4a.png"; 
-const imgT4_Museum = "/img/test4b.png"; 
-const imgT5_Book = "/img/test5a.png"; 
-const imgT5_School = "/img/testbb.png"; 
+const imgT1_Cafe = "img/test1a.png"; 
+const imgT1_TV = "img/test1b.png"; 
+const imgT2_College = "img/test2a.png"; 
+const imgT2_Boat = "img/test2b.png"; 
+const imgT3_Camp = "img/test3a.png"; 
+const imgT3_Coach = "img/test3b.png"; 
+const imgT4_Club = "img/test4a.png"; 
+const imgT4_Museum = "img/test4b.png"; 
+const imgT5_Book = "img/test5a.png"; 
+const imgT5_School = "img/testbb.png"; 
 
 const db = [
     { test: 1, part: 'A', q: "What is the address of the café?", a: "It is at 14 Park Street.", img: imgT1_Cafe },
