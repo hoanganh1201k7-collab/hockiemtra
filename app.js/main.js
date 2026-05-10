@@ -7,7 +7,7 @@ const imgT3_Coach = "img/test3b.png";
 const imgT4_Club = "img/test4a.png"; 
 const imgT4_Museum = "img/test4b.png"; 
 const imgT5_Book = "img/test5a.png"; 
-const imgT5_School = "img/testbb.png"; 
+const imgT5_School = "img/test5b.png"; 
 
 const db = [
     { test: 1, part: 'A', q: "What is the address of the café?", a: "It is at 14 Park Street.", img: imgT1_Cafe },
